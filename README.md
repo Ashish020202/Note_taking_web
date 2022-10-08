@@ -1,2 +1,3 @@
-# Note_taking_web
-Created with CodeSandbox
+# Note_Taking_Web
+Kudos to my 1st React website.
+
